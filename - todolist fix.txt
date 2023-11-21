@@ -1,0 +1,4 @@
+1. change color500 is max command to color999999999
+  code like in openbor.c file , find "colormagic" look its
+
+2. color{num} side add numbers, look like its colorbar x {num} display  show,  e.g. DNF lifebar display
